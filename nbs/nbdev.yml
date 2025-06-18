@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-hello-world"
+  site-url: "https://bfx23.github.io/nbdev-hello-world"
+  description: "Hello world for nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/bfx23/nbdev-hello-world"
